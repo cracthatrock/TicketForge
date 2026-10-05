@@ -97,7 +97,7 @@ Reopen / Delete
 
 ```bash
 git clone https://github.com/muhamedsfan-design/TicketForge
-cd ticketforge
+cd TicketForge
 ```
 
 ### 2. Install dependencies
