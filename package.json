@@ -8,9 +8,17 @@
     "start": "tsx src/index.ts",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discordjs",
+    "typescript",
+    "ticket-system",
+    "support-bot",
+    "sqlite"
+  ],
+  "author": "muhamedsfan-design",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "better-sqlite3": "^13.0.3",
