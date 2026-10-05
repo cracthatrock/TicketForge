@@ -4,6 +4,12 @@ A configurable Discord support bot built with TypeScript, discord.js, and SQLite
 
 TicketForge is designed for server owners who want a clean ticket system with staff controls, transcripts, persistent configuration, and an easy setup process.
 
+## Demo
+
+Watch TicketForge in action:
+
+[Watch the demo](https://www.youtube.com/watch?v=mxEK7tvEzl4)
+
 ## Features
 
 - Ticket creation panel
