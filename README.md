@@ -96,7 +96,7 @@ Reopen / Delete
 ### 1. Clone the project
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/muhamedsfan-design/TicketForge
 cd ticketforge
 ```
 
