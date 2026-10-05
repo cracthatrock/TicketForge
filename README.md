@@ -102,7 +102,7 @@ Reopen / Delete
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/muhamedsfan-design/TicketForge
+git clone https://github.com/cracthatrock/TicketForge
 cd TicketForge
 ```
 
